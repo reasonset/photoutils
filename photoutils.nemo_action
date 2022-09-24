@@ -1,8 +1,0 @@
-[Nemo Action]
-Active=true
-Name=Process pictures
-Comment=Open shotoutils menu.
-Exec=<photoutils.zsh %P>
-Selection=none
-Extensions=any;
-EscapeSpaces=true
